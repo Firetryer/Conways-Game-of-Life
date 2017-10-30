@@ -4,7 +4,7 @@ So it should work on both.
 
 The map isn't infinite, theres a limited area where the cells are confined to.
 
-##Controls
+## Controls
 Esc        - To Exit
   q        - Zoom in
   e        - Zoom out
