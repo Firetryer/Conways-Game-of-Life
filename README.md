@@ -4,6 +4,7 @@ So it should work on both.
 
 The map isn't infinite, theres a limited area where the cells are confined to.
 
+
 ## Controls
 
 Esc        - To Exit
@@ -18,5 +19,6 @@ Equals     - Increase Speed
 
 Minus      - Decrease Speed
 
+Left Click - Kill or Revive a Cell
 
 
