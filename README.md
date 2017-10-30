@@ -4,6 +4,16 @@ So it should work on both.
 
 The map isn't infinite, theres a limited area where the cells are confined to.
 
+## Requirements
+
+Python3
+
+Pygame
+
+To Run:
+
+python3 CGOL.py
+
 
 ## Controls
 
